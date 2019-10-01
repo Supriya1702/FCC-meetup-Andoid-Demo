@@ -1,13 +1,13 @@
 package com.fcchyd.androidonefcc;
 
 public class TaskData {
-    private String task;
+    public String task;
 
-    public TaskData(String task) {
-        this.task = task;
-    }
+     public TaskData(String task) {
+           this.task = task;
+         }
 
-    public String getTask() {
-        return task;
-    }
+      public String getTask() {
+          return task;
+        }
 }
