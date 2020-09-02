@@ -42,7 +42,7 @@ Demo app for freeCodeCamp's meetup on 4th March 2017 at T-Hub, IIIT, Hyderabad, 
 *   This repository history exactly corresponds to steps required to build this app.
 *   Questions can be forwared to [Gitter chat room](https://gitter.im/fcc-hyd/android)
 ***
-##### Useful Links
+##### Useful Links <b>
 *    [Android Documentation](https://developer.android.com/index.html)
 *    [Oracle Java Documentation](https://docs.oracle.com)
 *    [Udacity Nanodegree course](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
